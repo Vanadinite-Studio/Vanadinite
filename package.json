@@ -1,0 +1,21 @@
+{
+  "name": "vanadinite",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "output/index.js",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf ./output"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-bot",
+    "discord.js"
+  ],
+  "author": "O3IL",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "@types/node": "^14.11.10"
+  }
+}

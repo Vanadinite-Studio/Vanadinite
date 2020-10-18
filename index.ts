@@ -8,4 +8,4 @@ class main {
   _core:core = new core();
 }
 
-let m:main = new main(process.argv.slice(2));
+const m:main = new main(process.argv.slice(2));
